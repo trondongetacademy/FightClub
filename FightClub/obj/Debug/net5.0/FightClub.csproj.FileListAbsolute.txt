@@ -1,0 +1,16 @@
+C:\Users\GET Academy\Desktop\Tronds mappe\FightClub\FightClub\obj\Debug\net5.0\FightClub.csproj.AssemblyReference.cache
+C:\Users\GET Academy\Desktop\Tronds mappe\FightClub\FightClub\obj\Debug\net5.0\FightClub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GET Academy\Desktop\Tronds mappe\FightClub\FightClub\obj\Debug\net5.0\FightClub.AssemblyInfoInputs.cache
+C:\Users\GET Academy\Desktop\Tronds mappe\FightClub\FightClub\obj\Debug\net5.0\FightClub.AssemblyInfo.cs
+C:\Users\GET Academy\Desktop\Tronds mappe\FightClub\FightClub\obj\Debug\net5.0\FightClub.csproj.CoreCompileInputs.cache
+C:\Users\GET Academy\Desktop\Tronds mappe\FightClub\FightClub\bin\Debug\net5.0\FightClub.exe
+C:\Users\GET Academy\Desktop\Tronds mappe\FightClub\FightClub\bin\Debug\net5.0\FightClub.deps.json
+C:\Users\GET Academy\Desktop\Tronds mappe\FightClub\FightClub\bin\Debug\net5.0\FightClub.runtimeconfig.json
+C:\Users\GET Academy\Desktop\Tronds mappe\FightClub\FightClub\bin\Debug\net5.0\FightClub.runtimeconfig.dev.json
+C:\Users\GET Academy\Desktop\Tronds mappe\FightClub\FightClub\bin\Debug\net5.0\FightClub.dll
+C:\Users\GET Academy\Desktop\Tronds mappe\FightClub\FightClub\bin\Debug\net5.0\FightClub.pdb
+C:\Users\GET Academy\Desktop\Tronds mappe\FightClub\FightClub\obj\Debug\net5.0\FightClub.dll
+C:\Users\GET Academy\Desktop\Tronds mappe\FightClub\FightClub\obj\Debug\net5.0\refint\FightClub.dll
+C:\Users\GET Academy\Desktop\Tronds mappe\FightClub\FightClub\obj\Debug\net5.0\FightClub.pdb
+C:\Users\GET Academy\Desktop\Tronds mappe\FightClub\FightClub\obj\Debug\net5.0\FightClub.genruntimeconfig.cache
+C:\Users\GET Academy\Desktop\Tronds mappe\FightClub\FightClub\obj\Debug\net5.0\ref\FightClub.dll
